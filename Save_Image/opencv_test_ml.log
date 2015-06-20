@@ -1,0 +1,35 @@
+Engine: CxTest 0.1
+Execution Date & Time: 06/20/15 16:31:17
+Config File: (null)
+Tested Libraries: cxcore: 2.2.0
+Optimized Low-level Plugin's: 
+=================================================
+-------------------------------------------------
+aboost: validation file is not determined or not correctcontext: test case = -1, seed = 0000000148bf9366
+-------------------------------------------------
+adtree: validation file is not determined or not correctcontext: test case = -1, seed = 0000000148bf9366
+-------------------------------------------------
+aertrees: validation file is not determined or not correctcontext: test case = -1, seed = 0000000148bf9366
+-------------------------------------------------
+artrees: validation file is not determined or not correctcontext: test case = -1, seed = 0000000148bf9366
+-------------------------------------------------
+em: bad accuracy on train datacontext: test case = -1, seed = 0000000148bf9366
+-------------------------------------------------
+gbtrees: File reading error.context: test case = -1, seed = 0000000148bf9366
+-------------------------------------------------
+slann: validation file is not determined or not correctcontext: test case = -1, seed = 0000000148bf9366
+-------------------------------------------------
+slboost: validation file is not determined or not correctcontext: test case = -1, seed = 0000000148bf9366
+-------------------------------------------------
+sldtree: validation file is not determined or not correctcontext: test case = -1, seed = 0000000148bf9366
+-------------------------------------------------
+slertrees: validation file is not determined or not correctcontext: test case = -1, seed = 0000000148bf9366
+-------------------------------------------------
+slnbayes: validation file is not determined or not correctcontext: test case = -1, seed = 0000000148bf9366
+-------------------------------------------------
+slrtrees: validation file is not determined or not correctcontext: test case = -1, seed = 0000000148bf9366
+-------------------------------------------------
+slsvm: validation file is not determined or not correctcontext: test case = -1, seed = 0000000148bf9366
+=================================================
+Summary: 13 out of 15 tests failed
+Running time: 00:00:01
